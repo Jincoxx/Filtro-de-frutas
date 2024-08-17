@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   // Mostrar todas las frutas inicialmente
-  mostrarFrutas(frutas);
+  //mostrarFrutas(frutas);
 
   // Filtrar frutas al escribir en el input
   searchInput.addEventListener("input", function () {
